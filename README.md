@@ -1,6 +1,6 @@
-# 水课论文.skill · Course-paper skill (GB/T 7714)
+# 水课论文.skill · Course-paper skill
 
-**中文**：面向 Cursor / VS Code / Claude Code / Codex / **Trae IDE** 的课程论文工作流：联网检索可引用文献 → LaTeX（GB/T 7714-2015）→ Word（`.docx`）。
+**中文**：面向 Cursor / VS Code / Claude Code / Codex / Trae IDE 的课程论文工作流：联网检索可引用文献 → LaTeX（GB/T 7714-2015）→ Word（`.docx`）。
 
 **English**: Agent-driven workflow for course papers: web research with real citations → LaTeX (GB/T 7714-2015) → Word (`.docx`), usable from Cursor, VS Code–based agents, Claude Code, Codex, or **Trae IDE** (see [TUTORIAL.md](.cursor/skills/course-paper-gb7714/TUTORIAL.md) §2.5).
 
